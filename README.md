@@ -29,4 +29,4 @@ Python
 
 ## Citation
 
-This code is modified from <a href="https://github.com/phillipi/AMT_Real_vs_Fake">. This was done as part of the Custom Diffusion project and Bingliang Zhang is one of the contributors to this. 
+This code is modified from ["https://github.com/phillipi/AMT_Real_vs_Fake"](https://github.com/phillipi/AMT_Real_vs_Fake). This was done as part of the [Custom Diffusion](https://www.cs.cmu.edu/~custom-diffusion/). [Bingliang Zhang](https://zhangbingliang2019.github.io/) also worked on this repo during the project. 
